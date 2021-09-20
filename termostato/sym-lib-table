@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name termostado)(type Legacy)(uri ${KIPRJMOD}/termostado.lib)(options "")(descr ""))
+)
